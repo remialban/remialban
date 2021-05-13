@@ -2,4 +2,4 @@
 
 + 🇫🇷 French young developper.
 + 👨‍💻 I develop Android applications and softwares.
-+ 📱 Developper of [CopyPasta](https://github.com/CopyPastaOfficial).
++ 📱 Developper of [CopyPasta](https://github.com/CopyPastaOfficial/Android).
